@@ -8,6 +8,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Wasid-Khan/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Wasid-Khan/LeetCode/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/Wasid-Khan/LeetCode/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
@@ -17,6 +18,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Wasid-Khan/LeetCode/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/Wasid-Khan/LeetCode/tree/master/0392-is-subsequence) |
 # String
 |  |
@@ -29,6 +31,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Wasid-Khan/LeetCode/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/Wasid-Khan/LeetCode/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
