@@ -9,6 +9,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 | ------- |
 | [0001-two-sum](https://github.com/Wasid-Khan/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Wasid-Khan/LeetCode/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Wasid-Khan/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Wasid-Khan/LeetCode/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
@@ -32,8 +33,14 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Wasid-Khan/LeetCode/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Wasid-Khan/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Wasid-Khan/LeetCode/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Wasid-Khan/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Wasid-Khan/LeetCode/tree/master/1217-relative-sort-array) |
+# Greedy
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Wasid-Khan/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
