@@ -22,6 +22,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 | ------- |
 | [0075-sort-colors](https://github.com/Wasid-Khan/LeetCode/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/Wasid-Khan/LeetCode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Wasid-Khan/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # String
 |  |
 | ------- |
@@ -51,3 +52,11 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Wasid-Khan/LeetCode/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Wasid-Khan/LeetCode/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Wasid-Khan/LeetCode/tree/master/0633-sum-of-square-numbers) |
