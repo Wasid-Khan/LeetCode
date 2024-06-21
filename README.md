@@ -12,6 +12,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 | [0502-ipo](https://github.com/Wasid-Khan/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Wasid-Khan/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Wasid-Khan/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1138-grumpy-bookstore-owner](https://github.com/Wasid-Khan/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Wasid-Khan/LeetCode/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Wasid-Khan/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Wasid-Khan/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -70,3 +71,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 | [0853-most-profit-assigning-work](https://github.com/Wasid-Khan/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Wasid-Khan/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Wasid-Khan/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Wasid-Khan/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
