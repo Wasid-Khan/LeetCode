@@ -14,6 +14,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Wasid-Khan/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1138-grumpy-bookstore-owner](https://github.com/Wasid-Khan/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Wasid-Khan/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Wasid-Khan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Wasid-Khan/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Wasid-Khan/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
@@ -21,6 +22,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 | ------- |
 | [0001-two-sum](https://github.com/Wasid-Khan/LeetCode/tree/master/0001-two-sum) |
 | [1217-relative-sort-array](https://github.com/Wasid-Khan/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Wasid-Khan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Wasid-Khan/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Wasid-Khan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
 | ------- |
@@ -75,3 +78,4 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Wasid-Khan/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Wasid-Khan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
