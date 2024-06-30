@@ -151,8 +151,13 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Wasid-Khan/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Wasid-Khan/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Wasid-Khan/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Wasid-Khan/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
