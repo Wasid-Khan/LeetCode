@@ -163,6 +163,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Wasid-Khan/LeetCode/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Wasid-Khan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Wasid-Khan/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
@@ -189,4 +190,8 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Wasid-Khan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Wasid-Khan/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
