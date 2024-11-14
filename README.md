@@ -194,4 +194,17 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Wasid-Khan/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Wasid-Khan/LeetCode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Wasid-Khan/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Wasid-Khan/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Wasid-Khan/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
