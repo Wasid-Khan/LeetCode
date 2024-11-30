@@ -177,6 +177,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Wasid-Khan/LeetCode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Wasid-Khan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -195,6 +196,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 | ------- |
 | [0066-plus-one](https://github.com/Wasid-Khan/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Wasid-Khan/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Wasid-Khan/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
