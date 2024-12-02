@@ -1,26 +1,26 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        # Use a dictionary to store computed results for each step
+        # Dictionary to store results of subproblems (Memoization)
         memo = {}
 
-        def helper(steps):
-            # If steps are 0 or 1, there's only one way to climb
-            if steps == 0:
+        def countWays(p):
+            # Base cases: if there's 1 step, there's 1 way; if 2 steps, 2 ways
+            if p == 1:
                 return 1
-            if steps == 1:
-                return 1
+            if p == 2:
+                return 2
 
-            # If result is already computed, return it (Memoization)
-            if steps in memo:
-                return memo[steps]
+            # Check if result for `p` is already computed
+            if p in memo:
+                return memo[p]
 
-            # Compute the number of ways for the current step
-            # Recursive calls for (n-1) and (n-2)
-            left = helper(steps - 1)
-            right = helper(steps - 2)
-            memo[steps] = left + right  # Store the result in memo
+            # Recursive calls for (p-1) and (p-2)
+            recCall1 = countWays(p - 1)
+            recCall2 = countWays(p - 2)
 
-            return memo[steps]
+            # Compute and store the result in the memo dictionary
+            memo[p] = recCall1 + recCall2
+            return memo[p]
 
-        # Start the helper function with input `n`
-        return helper(n)
+        # Start the helper function with the given number of steps
+        return countWays(n)
