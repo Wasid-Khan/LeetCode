@@ -187,6 +187,7 @@ I'm using Leetcode since 2022, however, I've created this repository on 10 June 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Wasid-Khan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Wasid-Khan/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
